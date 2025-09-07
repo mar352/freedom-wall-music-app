@@ -15,7 +15,24 @@ A modern Flutter social media application that combines anonymous posting with D
 
 ## Screenshots
 
-*Coming soon...*
+### Main Features
+<div align="center">
+  <img src="screenshots/main-feed.png" alt="Main Feed" width="300"/>
+  <img src="screenshots/music-search.png" alt="Music Search" width="300"/>
+  <img src="screenshots/post-creation.png" alt="Post Creation" width="300"/>
+</div>
+
+### User Interface
+<div align="center">
+  <img src="screenshots/profile-page.png" alt="Profile Page" width="300"/>
+  <img src="screenshots/music-player.png" alt="Music Player" width="300"/>
+  <img src="screenshots/comments.png" alt="Comments" width="300"/>
+</div>
+
+> **Note:** To add your own screenshots:
+> 1. Create a `screenshots/` folder in your project root
+> 2. Add your app screenshots (PNG/JPG format)
+> 3. Update the image paths above to match your screenshot filenames
 
 ## Getting Started
 
